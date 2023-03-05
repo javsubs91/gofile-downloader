@@ -1,5 +1,9 @@
 # gofile-downloader
 Download files from https://gofile.io
+# Clone this repository
+```
+git clone https://github.com/javsubs91/gofile-downloader.git
+```
 
 # Requirements
 ```
