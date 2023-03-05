@@ -10,8 +10,8 @@ git clone https://github.com/javsubs91/gofile-downloader.git
 conda install python="3.10"
 pip install -r requirements.txt
 ```
-**NOTICED: This script is only running on Python version 3.1
-
+**NOTICED:** This script is only running on Python version 3.1 0
+___
 # Usage
 ```
 python gofile-downloader.py https://gofile.io/d/contentid
