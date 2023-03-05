@@ -3,6 +3,7 @@ Download files from https://gofile.io
 
 # Requirements
 ```
+conda install python="3.10"
 pip install -r requirements.txt
 ```
 
