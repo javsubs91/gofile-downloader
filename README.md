@@ -28,8 +28,10 @@ path must exist already):
 GF_DOWNLOADDIR="/path/to/the/directory" python gofile-downloader.py https://gofile.io/d/contentid
 
 ```
+
+
+
 <br>
 
-<h3>Visitors :</h3>
-<br>
-<img src="https://profile-counter.glitch.me/gofile-downloader/count.svg" alt="Visitors">
+
+<a href="https://www.flagcounter.me/details/dsf"><img src="https://www.flagcounter.me/dsf/" alt="Flag Counter"></a>
