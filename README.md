@@ -31,7 +31,7 @@ GF_DOWNLOADDIR="/path/to/the/directory" python gofile-downloader.py https://gofi
 
 
 
-<br>
+___
 
 
 <a href="https://www.flagcounter.me/details/dsg"><img src="https://www.flagcounter.me/dsg/" alt="Flag Counter"></a>
