@@ -31,7 +31,7 @@ python -V
 ```
 python ./gofile-downloader/gofile-downloader.py https://gofile.io/d/contentid
 ```
-## Parallel Download
+## Parallel Downloads
 ```
 %%bash
 python ./gofile-downloader/gofile-downloader.py https://gofile.io/d/fileid1 &
