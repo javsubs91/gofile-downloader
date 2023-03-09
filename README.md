@@ -4,13 +4,42 @@ Download files from https://gofile.io
 ```
 git clone https://github.com/javsubs91/gofile-downloader.git
 ```
-
+___
 # Requirements
 ```
 conda install python="3.10"
 pip install -r ./gofile-downloader/requirements.txt
 ```
 **NOTICED:** This script is only running on Python version 3.10
+
+Or
+
+## Simply Install:
+```
+%%bash
+sudo wget -c https://repo.anaconda.com/miniconda/Miniconda3-py310_23.1.0-1-Linux-x86_64.sh
+sudo chmod +x ./Miniconda3-py310_23.1.0-1-Linux-x86_64.sh
+sudo bash ./Miniconda3-py310_23.1.0-1-Linux-x86_64.sh  -b -f -p /usr/local
+git clone https://github.com/ltsdw/gofile-downloader.git
+pip install -r ./gofile-downloader/requirements.txt
+```
+## Check the Version
+```
+python -V
+```
+## Start Download
+```
+python ./gofile-downloader/gofile-downloader.py https://gofile.io/d/contentid
+```
+## Parallel Download
+```
+%%bash
+python ./gofile-downloader/gofile-downloader.py https://gofile.io/d/fileid1 &
+python ./gofile-downloader/gofile-downloader.py https://gofile.io/d/fileid2 &
+python ./gofile-downloader/gofile-downloader.py https://gofile.io/d/fileid3 &
+python ./gofile-downloader/gofile-downloader.py https://gofile.io/d/fileid4 &
+```
+
 ___
 # Usage
 ```
