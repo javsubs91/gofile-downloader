@@ -14,7 +14,7 @@ pip install -r ./gofile-downloader/requirements.txt
 ___
 # Usage
 ```
-python gofile-downloader.py https://gofile.io/d/contentid
+python ./gofile-downloader/gofile-downloader.py https://gofile.io/d/contentid
 ```
 
 If it has password:
