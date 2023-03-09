@@ -8,9 +8,9 @@ git clone https://github.com/javsubs91/gofile-downloader.git
 # Requirements
 ```
 conda install python="3.10"
-pip install -r requirements.txt
+pip install -r ./gofile-downloader/requirements.txt
 ```
-**NOTICED:** This script is only running on Python version 3.1 0
+**NOTICED:** This script is only running on Python version 3.10
 ___
 # Usage
 ```
@@ -19,7 +19,7 @@ python gofile-downloader.py https://gofile.io/d/contentid
 
 If it has password:
 ```
-python gofile-downloader.py https://gofile.io/d/contentid password
+python ./gofile-downloader/gofile-downloader.py https://gofile.io/d/contentid password
 ```
 
 Use the environment variable **`GF_DOWNLOADDIR`** to specify where to download to (the
