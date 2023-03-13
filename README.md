@@ -58,9 +58,6 @@ path must exist already):
 GF_DOWNLOADDIR="/path/to/the/directory" python gofile-downloader.py https://gofile.io/d/contentid
 
 ```
-<p align="center">
-<img src="https://github.com/javsubs91/gofile-downloader/blob/main/NOOOO.jpg?raw=true" height="500" align="center"/>
-</p>
 
 ___
 
